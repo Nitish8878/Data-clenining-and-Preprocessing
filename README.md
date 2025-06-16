@@ -1,3 +1,3 @@
-# Data-clenining-and-Preprocessing
+# Data-cleanining-and-Preprocessing
 Clean and prepare a raw dataset.
 
